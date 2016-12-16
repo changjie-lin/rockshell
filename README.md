@@ -1,4 +1,4 @@
-# Intetresting Shell Scripts
+# Interesting Shell Scripts
 
-## echo output with colors
+- Change the output color of echo 
 
